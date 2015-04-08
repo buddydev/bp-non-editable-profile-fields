@@ -97,7 +97,7 @@ class BD_Non_Editable_Field_Helper {
 		$can_edit = $this->get_field_editing_preference( $field->id );	
 		?>	
 			<div class="postbox">
-				<h3><label for="member-can-edit"><?php _e( 'User Can Edit?', 'bp-non-editable-field' ); ?></label></h3>
+				<h3><label for="member-can-edit"><?php _e( 'Is This Field Editable?', 'bp-non-editable-field' ); ?></label></h3>
 				<div class="inside">
 					<ul>
 						<li>
@@ -106,9 +106,10 @@ class BD_Non_Editable_Field_Helper {
 						</li>
 						<li>
 							<input type="radio" id="member-can-edit-disabled" name="member-can-edit" value="no" <?php checked( $can_edit, 'no' ); ?> />
-							<label for="member-can-edit-disabled"><?php _e( 'Do not allow a user to change this field after registration.', 'bp-non-editable-field' ); ?></label>
+							<label for="member-can-edit-disabled"><?php _e( 'Do not allow a user to change this field .', 'bp-non-editable-field' ); ?></label>
 						</li>
 					</ul>
+					<p><?php _e( "If you mark this field non editable, A user can only update it once.");?></p>
 				</div>
 			</div>	
 		<?php 
