@@ -2,7 +2,7 @@
 /**
  * Plugin Name: BP Non Editable Profile Fields
  * Plugin URI: http://buddydev.com/plugins/bp-non-editable-profile-fields/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Description: Do not allow users to change a profile field value once they have updated it.
  * Author: Brajesh Singh
  * Author URI: http://buddydevcom
