@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Non Editable Profile Field\n"
+"POT-Creation-Date: 2016-04-05 15:26+0530\n"
+"PO-Revision-Date: 2016-04-05 15:26+0530\n"
+"Last-Translator: BuddyDev.com\n"
+"Language-Team: BuddyDev\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/bp/2.5/dev/wp-content/plugins/bp-non-"
+"editable-profile-fields\n"
+
+#: /var/www/bp/2.5/dev/wp-content/plugins/bp-non-editable-profile-fields/bp-non-editable-field.php:102
+msgid "Is This Field Editable?"
+msgstr ""
+
+#: /var/www/bp/2.5/dev/wp-content/plugins/bp-non-editable-profile-fields/bp-non-editable-field.php:107
+msgid "Let Users change this field"
+msgstr ""
+
+#: /var/www/bp/2.5/dev/wp-content/plugins/bp-non-editable-profile-fields/bp-non-editable-field.php:111
+msgid "Do not allow a user to change this field ."
+msgstr ""
+
+#: /var/www/bp/2.5/dev/wp-content/plugins/bp-non-editable-profile-fields/bp-non-editable-field.php:114
+msgid "If you mark this field non editable, A user can only update it once."
+msgstr ""
