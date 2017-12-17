@@ -37,7 +37,7 @@ and all the cases you can imagine.
 2. Search for BP Non Editable Profile Fields
 3. Install this plugin
 4. Click Activate
-5. Now, you can use the widget.
+5. Now, go to edit field scree page that you want to mark as non-editable
 
 For more details, Please see the plugin documentation page.
 
